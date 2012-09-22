@@ -18,13 +18,13 @@ dataset : download the data and put it in data/dino.
 Without Loop & Zhang shearing transform applied, this gives the following
 result. The left image is quite distorted.
 
-.. image:: http://raw.github.com/julienr/cvscripts/master/rectification/doc/output_no_shearing.png
+.. image:: https://raw.github.com/julienr/cvscripts/master/rectification/doc/output_no_shearing.png
 
 After applying the shearing transform, the left image looks better and
 the epipolar lines are still correct. Note that the left image area should
 be increased so the whole image is visible.
 
-.. image:: http://raw.github.com/julienr/cvscripts/master/rectification/doc/output_shearing.png
+.. image:: https://raw.github.com/julienr/cvscripts/master/rectification/doc/output_shearing.png
 
 
 .. [HZ2] Multiple View Geometry in Computer Vision,
