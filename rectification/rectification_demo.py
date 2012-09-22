@@ -1,3 +1,4 @@
+# Copyright (2012) Julien Rebetez <julien@fhtagn.net>
 """
 Demo of the python rectification implementation
 """

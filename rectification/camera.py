@@ -1,3 +1,4 @@
+# Copyright (2012) Julien Rebetez <julien@fhtagn.net>
 import numpy as np
 import numpy.linalg as la
 

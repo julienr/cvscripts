@@ -1,3 +1,4 @@
+# Copyright (2012) Julien Rebetez <julien@fhtagn.net>
 import numpy as np
 def to_homg(x):
     """
