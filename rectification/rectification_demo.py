@@ -1,3 +1,6 @@
+"""
+Demo of the python rectification implementation
+"""
 import epipolar
 import draw
 import camera
